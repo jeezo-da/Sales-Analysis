@@ -1,5 +1,7 @@
 # Sales Analysis
 
+[View the full analysis on Notion](https://fortunate-echo-75b.notion.site/Sales-Analysis-1a6cb4cf8cca8060a3c9c363cf9431e4)
+
 ## Overview
 This project presents an analysis of sales performance over multiple months. The analysis focuses on identifying key trends, evaluating customer retention, and providing actionable insights to improve overall sales efficiency. 
 
@@ -42,12 +44,12 @@ To counteract the negative trends, the following steps are recommended:
 
 ## Files in This Repository
 - **`Sales Analysis.xlsx`** – Raw sales data used for the analysis.
-- **`Sales_Analysis.pdf`** – Detailed report in English.
+- **`Sales Analysis.pdf`** – Detailed report in English.
 - **`README.md`** – Overview of the project.
 
 ## How to Use This Repository
 1. **Explore the Data:** Open `Sales Analysis.xlsx` to examine raw figures.
-2. **Read the Report:** Refer to `Sales_Analysis.pdf` for an in-depth analysis.
+2. **Read the Report:** Refer to `Sales Analysis.pdf` for an in-depth analysis.
 3. **Implement AI Review Analysis:** Utilize AI models like GPT-4 for automated sentiment classification.
 
 ## Conclusion
